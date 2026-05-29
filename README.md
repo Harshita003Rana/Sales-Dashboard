@@ -23,4 +23,3 @@ The objective of this project is to create an interactive Sales Dashboard in Mic
 ## Dashboard
 <img width="1625" height="446" alt="Screenshot 2026-05-29 121914" src="https://github.com/user-attachments/assets/c714eb09-9e25-4133-badb-767f2e5255ab" />
 ## Project Insight
-
