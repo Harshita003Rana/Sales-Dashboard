@@ -12,3 +12,12 @@ The objective of this project is to create an interactive Sales Dashboard in Mic
 - Which month recorded the highest sales performance?
 - How do sales trends vary across different months of the year?
 - Dashboard Interaction <a href = "https://github.com/Harshita003Rana/Sales-Dashboard/blob/main/Screenshot%202026-05-29%20121914.png">View Dashboard</a>
+## Process
+- Collected and organized the sales data.
+- Cleaned and prepared the dataset for analysis.
+- Created Pivot Tables to summarize sales information.
+- Built Pivot Charts for data visualization.
+- Designed an interactive Sales Dashboard.
+- Added Slicers for dynamic filtering.
+- Analyzed sales trends and performance insights
+## Dashboard
