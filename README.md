@@ -23,3 +23,12 @@ The objective of this project is to create an interactive Sales Dashboard in Mic
 ## Dashboard
 <img width="1625" height="446" alt="Screenshot 2026-05-29 121914" src="https://github.com/user-attachments/assets/c714eb09-9e25-4133-badb-767f2e5255ab" /></a>
 ## Project Insight
+- Bangalore generated the highest sales among all cities.
+- Dell XPS 13 emerged as the top-selling product.
+- The Phone category contributed the largest share of total sales revenue.
+- Tara was the best-performing sales representative based on sales generated.
+- January recorded the highest monthly sales performance.
+- Sales varied across months, highlighting seasonal demand patterns.
+- The dashboard enables quick identification of top-performing products, cities, and sales representatives.
+## Conclusion
+The Sales Dashboard successfully transforms raw sales data into meaningful business insights using Pivot Tables, Pivot Charts, and Slicers. It provides a clear view of sales performance across cities, products, categories, sales representatives, and months. The interactive dashboard helps users monitor key metrics, identify trends, and support data-driven decision-making for improving business performance. 📊🚀
